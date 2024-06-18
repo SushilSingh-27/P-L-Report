@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Vaniii1104/Sales-and-Finance-Reports/blob/main/pl%20values%20%201.pdf)
+    **1.** Create Profit and Loss (P&L) reports by Fiscal Year (https://github.com/SushilSingh-27/P-L-Report/blob/91e04e3deba637c41691ee5ab06b0a88089fc5b4/pl%20value%20by%20year.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by (https://github.com/Vaniii1104/Sales-and-Finance-Reports/blob/main/pl%20values%202.pdf)
+   **2.** Create Profit and Loss (P&L) reports by months (https://github.com/SushilSingh-27/P-L-Report/blob/91e04e3deba637c41691ee5ab06b0a88089fc5b4/pl%20values%202.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
